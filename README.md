@@ -5,7 +5,7 @@ I'm here to share my projects, collaborate on exciting new ideas, and contribute
 
 ## About Me
 - **🔭 I’m currently working on:** [BrandElevatorXBot]
-- **🌱 I’m currently learning:** [Technologies or Skills You're Learning]
+- **🌱 I’m currently learning:** [Saas Technologies; API Programming; AI Systems Development]
 - **💬 Ask me about:** IT, software development, digital marketing, personal branding and AI strategies.
 - **📫 How to reach me:** [email: ntlukaleo@gmail.com]
 - **⚡ Fun fact:** I'm also diving into fitness and personal branding on social media.
