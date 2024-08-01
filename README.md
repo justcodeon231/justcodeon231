@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Leo, a passionate IT enthusiast, musician by practice, and a lover of all things tech. With a background in IT and software development, 
-I'm here to share my projects, collaborate on exciting new ideas, and contribute to the open-source community.
+Hi there! I'm Leo, a passionate IT enthusiast, musician by practice, and a lover of all things tech. With a background in IT and software development and currently
+working on an online business. I'm here to share my projects, collaborate on exciting new ideas, and contribute to the open-source community.
 
 ## About Me
 - **🔭 I’m currently working on:** [BrandElevatorXBot]
