@@ -13,17 +13,17 @@ working on an online business. I'm here to share my projects, collaborate on exc
 ## Projects
 
 ### Featured Project
-- **[Brand Elevator X/Twitter Bot]([Link to Project](https://github.com/justcodeon231/brandelevatorbot)**
+- **[Brand Elevator X/Twitter Bot]([Link to Project](https://github.com/justcodeon231/brandelevatorbot ))**
   - This bot was created with the intent of helping digital creators, social media managers, and researchers easily access and analyze Twitter content.
 
 ### Coming Projects
-- **[Discord Reminder Bot](Link to Project)**
+- **[Discord Reminder Bot]**
   - A discord bot that intergrates with google calendar, where you can add tasks to your calendar and it sends you messages to remind you of upcoming events!
 
-- **[Spotify Playlist Downloader](Link to Project)**
+- **[Spotify Playlist Downloader]**
   - You provide the link to a spotify playlist, it scrapes the details and downloads the high quality songs from a platform such as YouTube.
 
-- **[Automatic Networking Tool](Link to Project)**
+- **[Automatic Networking Tool]C**
   - Scrapes industry relevant profiles and emails from certain websites and sends an automated email or request to connect, whilst maintaining transparency about how the details were obtainned
  
 - **Want to collaborate or know more, scroll down to the contact section and send me a message. I'm eager to hear what you have to say!**
