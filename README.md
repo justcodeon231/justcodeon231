@@ -7,13 +7,13 @@ working on an online business. I'm here to share my projects, collaborate on exc
 - **🔭 I’m currently working on:** [BrandElevatorXBot]
 - **🌱 I’m currently learning:** [Saas Technologies; API Programming; AI Systems Development]
 - **💬 Ask me about:** IT, software development, digital marketing, personal branding and AI strategies.
-- **📫 How to reach me:** [email: ntlukaleo@gmail.com]
+- **📫 How to reach me:** Scroll to the very bottom of the screen!
 - **⚡ Fun fact:** I'm also diving into fitness and personal branding on social media.
 
 ## Projects
 
 ### Featured Project
-- **[Project Name]([Link to Project](https://github.com/justcodeon231/brandelevatorbot)**
+- **[Brand Elevator X/Twitter Bot]([Link to Project](https://github.com/justcodeon231/brandelevatorbot)**
   - This bot was created with the intent of helping digital creators, social media managers, and researchers easily access and analyze Twitter content.
 
 ### Coming Projects
