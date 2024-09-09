@@ -4,7 +4,7 @@ Hi there! I'm Leo, a business strategist and passionate IT enthusiast, writer by
 working on an online business. I'm here to share my projects, collaborate on exciting new ideas, and contribute to the open-source community.
 
 ## About Me
-- **🔭 I’m currently working on:** [BrandElevatorXBot]
+- **🔭 I’m currently working on:** [XBrandElevator]
 - **🌱 I’m currently learning:** [Saas Technologies; API Programming; AI Systems Development]
 - **💬 Ask me about:** IT, software development, digital marketing, personal branding and AI strategies.
 - **📫 How to reach me:** Scroll to the very bottom of the screen!
