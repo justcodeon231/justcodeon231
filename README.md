@@ -41,5 +41,5 @@ Stay tuned for these upcoming projects and updates:
 - **Open-Source Contributions**: Planning to contribute to anything AI related.
 
 ## Let's Connect
-- **Twitter:** [Your Twitter Handle](https://twitter.com/GrowthWithLeo)
-- **Medium:** [Your Medium Profile](https://medium.com/@ntlukaleo)
+- **Twitter:** [GrowthWithLeo](https://twitter.com/GrowthWithLeo)
+- **Medium:** [ntlukaleo](https://medium.com/@ntlukaleo)
