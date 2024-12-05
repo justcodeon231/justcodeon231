@@ -36,4 +36,3 @@ Stay tuned for these upcoming projects and updates:
 
 ## Let's Connect
 - **Twitter:** [GrowthWithLeo](https://twitter.com/GrowthWithLeo)
-- **Medium:** [ntlukaleo](https://medium.com/@ntlukaleo)
