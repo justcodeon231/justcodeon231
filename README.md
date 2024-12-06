@@ -1,6 +1,6 @@
 # Welcome to My GitHub 👋
 
-I'm **Leo**, a software engineer and entrepreneur. Currently building, Webb apps and networking with other techpreneurs
+I'm **Leo**, a software engineer and entrepreneur. Currently building, websites and apps and networking with other techpreneurs
 
 ## What I'm Working On
 
