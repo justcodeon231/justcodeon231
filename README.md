@@ -1,11 +1,14 @@
 # Welcome to My GitHub 👋
 
-I'm **Leo**, a software engineer and entrepreneur. Currently building, a micro-SaaS platform focused on feedback collection and churn reduction for startups.
+I'm **Leo**, a software engineer and entrepreneur. Currently building, Webb apps and networking with other techpreneurs
 
 ## What I'm Working On
+
 - **🔭 Currently:** (#)  
-   A micro-SaaS platform leveraging AI to help content creators and entrepreneurs optimize their brand.
+   a micro-SaaS platform focused on feedback collection and churn reduction for startups.
+
 - **🌱 Learning:** SaaS, API development, AI systems.
+
 - **💬 Ask me about:** Software development, AI, SaaS, digital marketing, personal branding.
 
 ## Coming Soon
